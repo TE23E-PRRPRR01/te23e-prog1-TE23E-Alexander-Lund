@@ -16,7 +16,7 @@ if (förnamn == "Alexander")
 }
 
 // efternams
-if (efternamn == "Lund")
+if (efternamn == "Ryde")
 {
     Console.WriteLine("fint efternamn!");
 }
