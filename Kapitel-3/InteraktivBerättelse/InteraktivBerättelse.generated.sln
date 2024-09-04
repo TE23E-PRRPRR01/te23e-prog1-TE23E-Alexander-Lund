@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteraktivBerättelse", "InteraktivBerättelse.csproj", "{50D89AB8-F53C-4709-AB50-57CB338EB5AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteraktivBerättelse", "InteraktivBerättelse.csproj", "{20EEF13C-5146-4E1B-B96D-29AF1B3FE8BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50D89AB8-F53C-4709-AB50-57CB338EB5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50D89AB8-F53C-4709-AB50-57CB338EB5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50D89AB8-F53C-4709-AB50-57CB338EB5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50D89AB8-F53C-4709-AB50-57CB338EB5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EEF13C-5146-4E1B-B96D-29AF1B3FE8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EEF13C-5146-4E1B-B96D-29AF1B3FE8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EEF13C-5146-4E1B-B96D-29AF1B3FE8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EEF13C-5146-4E1B-B96D-29AF1B3FE8BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
